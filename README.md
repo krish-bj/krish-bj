@@ -1,150 +1,134 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn" width="100%" />
+<div align="center">
+
+<img width="100%" alt="Balaji N — building digital products" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,45:EC4899,100:F59E0B&text=Balaji%20N&fontColor=FFFFFF&fontSize=65&fontAlignY=39&desc=Full-Stack%20Developer%20%7C%20Technical%20Founder&descAlignY=61&descSize=19&animation=fadeIn" />
+
+### ✦ Ideas → Interfaces → Products that ship
+
+<img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&pause=1100&color=E879F9&center=true&vCenter=true&width=650&lines=I+design%2C+build+and+ship+software;From+thoughtful+UX+to+reliable+backends;Web+%E2%80%A2+Mobile+%E2%80%A2+Business+Tools" />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajiyadav.me)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-bj-ln)
+[![AngamTech](https://img.shields.io/badge/ANGAMTECH-EC4899?style=for-the-badge&logo=buffer&logoColor=white)](https://angamtech.in)
+
+</div>
+
+---
+
+## 🌈 A little about me
+
+I'm **Balaji N**, a full-stack developer, technical founder and co-founder of **[AngamTech](https://angamtech.in)**.
+
+I work across **product design, frontend engineering, backend systems and deployment** — turning complex requirements into useful, approachable digital experiences.
+
+- 🧩 **I build:** CRMs, ERP and business tools, learning platforms, websites and mobile apps.
+- 🎨 **I care about:** distinctive interfaces, accessible workflows and maintainable design systems.
+- ⚙️ **I focus on:** practical architecture, performance and shipping real products.
+- 🚀 **Currently exploring:** smarter education platforms and workflow automation.
+
+## 🛠️ My creative toolkit
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Balaji+N;Technical+Founder+%26+Full-Stack+Dev;Co-Founder+%40+AngamTech;From+Idea+to+UX+to+Production;Building+Things+That+Actually+Ship" alt="Typing SVG" />
+**Frontend & experience**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS and Figma" />
+
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,express,postgres,mongodb,redis&perline=8" alt="Python, Django, Node.js, NestJS, Express, PostgreSQL, MongoDB and Redis" />
+
+**Mobile, platforms & workflow**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,php,wordpress,docker,git,github,linux&perline=8" alt="Flutter, Dart, PHP, WordPress, Docker, Git, GitHub and Linux" />
+
+</div>
+
+## ✨ Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [CollegeFynder V2](https://github.com/krish-bj/CollegeFynder-V2)
+**AI-powered college discovery**
+
+A platform for exploring colleges and navigating education choices.
+
+`Next.js` · `NestJS` · `PostgreSQL` · `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 [Institute Management](https://github.com/krish-bj/IMS)
+**Operations made simpler**
+
+Tools for managing institute workflows, staff and administration.
+
+`Business software` · `Operations`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [ABC Academy](https://github.com/krish-bj/abc-academy-launch)
+**Learning experiences**
+
+Building digital experiences for education and learners.
+
+`Education` · `Web`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [LeadCRM](https://github.com/krish-bj/LeadCRM)
+**Customer workflows**
+
+Exploring better ways to manage leads and business relationships.
+
+`CRM` · `Productivity`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🌍 More websites and client work</b></summary>
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=krish-bj&color=6C63FF&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available%20for%20Projects-22C55E?style=flat-square&logo=checkmarx&logoColor=white" />
-</p>
+- [AngamTech](https://angamtech.in) — digital products and development studio
+- [ABCMaths](https://www.abcmaths.in) — mathematics learning website
+- [Global Social Mission](https://www.globalsocialmission.org) — nonprofit web presence
+- [Naloji Technologies](https://nalojitechnologies.com) — technology company website
 
-<p>
-  <a href="https://balajiyadav.me"><img src="https://img.shields.io/badge/Portfolio-balajiyadav.me-6C63FF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://angamtech.in"><img src="https://img.shields.io/badge/Studio-AngamTech-FF6584?style=flat-square&logo=buffer&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/balaji-bj-ln"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+</details>
 
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/-About%20Me-6C63FF?style=flat-square&logo=person&logoColor=white" />
-
-I'm a **technical founder and full-stack developer** helping businesses scale with robust, secure, and performance-focused web and mobile solutions.
-
-- <img src="https://img.shields.io/badge/-Co--founder-FF6584?style=flat-square&logo=buffer&logoColor=white" /> of [AngamTech](https://angamtech.in) — building practical products like CRMs, business tools, and custom apps for clients in India and beyond.
-- <img src="https://img.shields.io/badge/-Building-6C63FF?style=flat-square&logo=rocket&logoColor=white" /> **CollegeFynder-V2** — an AI-powered college exploration platform.
-- <img src="https://img.shields.io/badge/-Process-6C63FF?style=flat-square&logo=git&logoColor=white" /> Idea & UX to production-ready deployment.
-- <img src="https://img.shields.io/badge/-Mindset-6C63FF?style=flat-square&logo=lightbulb&logoColor=white" /> Product thinking, UI/UX, and deep technical implementation.
-- <img src="https://img.shields.io/badge/-Writing-6C63FF?style=flat-square&logo=hashnode&logoColor=white" /> Blogs on tech, no-code, SEO, and growth.
-
----
-
-### <img src="https://img.shields.io/badge/-What%20I%20Do-6C63FF?style=flat-square&logo=zap&logoColor=white" />
+## 📊 A glimpse of my GitHub
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/-Domain-6C63FF?style=flat-square&logoColor=white" /> | Details |
-|---|---|
-| <img src="https://img.shields.io/badge/End--to--End%20Products-6C63FF?style=flat-square&logo=layers&logoColor=white" /> | Design and build digital products from scratch to deployment |
-| <img src="https://img.shields.io/badge/Real--World%20Apps-FF6584?style=flat-square&logo=flutter&logoColor=white" /> | Flutter, Node.js, MongoDB with clean architecture |
-| <img src="https://img.shields.io/badge/Secure%20Solutions-22C55E?style=flat-square&logo=shield&logoColor=white" /> | Handle real business constraints, performance & scale |
-| <img src="https://img.shields.io/badge/Consulting-F59E0B?style=flat-square&logo=handshake&logoColor=white" /> | Turn messy offline workflows into streamlined digital systems |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-bj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=F59E0B&text_color=CDD6F4" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-bj&layout=compact&hide_border=true&bg_color=0D1117&title_color=E879F9&text_color=CDD6F4" alt="Most-used languages in public repositories" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-bj&bg_color=0D1117&color=E879F9&line=F59E0B&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
----
+> **My approach:** Make it useful. Make it intuitive. Make it last.
 
-### <img src="https://img.shields.io/badge/-Tech%20Stack-6C63FF?style=flat-square&logo=stackshare&logoColor=white" />
+## 💌 Have something in mind?
+
+Whether it's a product idea, a better interface or a business workflow worth simplifying, I'm always interested in meaningful projects.
 
 <div align="center">
 
-**Languages & Core**
+[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajiyadav.me)
+[![Connect on LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-bj-ln)
+[![Visit AngamTech](https://img.shields.io/badge/VISIT_ANGAMTECH-F59E0B?style=for-the-badge&logo=buffer&logoColor=white)](https://angamtech.in)
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,php,dart,sql)](https://skillicons.dev)
+<img src="https://komarev.com/ghpvc/?username=krish-bj&style=flat-square&color=7C3AED&label=Profile+visits" alt="Profile visits" />
 
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind)](https://skillicons.dev)
-
-**Backend & Database**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis)](https://skillicons.dev)
-
-**DevOps & Tools**
-
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma)](https://skillicons.dev)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,45:EC4899,100:F59E0B" alt="" />
 
 </div>
-
----
-
-### <img src="https://img.shields.io/badge/-GitHub%20Stats-6C63FF?style=flat-square&logo=github&logoColor=white" />
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=krish-bj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-bj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=krish-bj&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/-Featured%20Projects-6C63FF?style=flat-square&logo=folder&logoColor=white" />
-
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| [![CollegeFynder-V2](https://img.shields.io/badge/CollegeFynder--V2-6C63FF?style=flat-square&logo=google-scholar&logoColor=white)](https://github.com/krish-bj/CollegeFynder-V2) | Next.js · NestJS · PostgreSQL · Redis | AI-powered college exploration & counseling platform |
-| [![Admission CRM](https://img.shields.io/badge/Admission%20CRM-FF6584?style=flat-square&logo=salesforce&logoColor=white)](#) | Node.js · MongoDB · React | End-to-end CRM for managing student admissions and lead pipelines |
-| [![Institute Management](https://img.shields.io/badge/Institute%20Management%20Software-F59E0B?style=flat-square&logo=microsoft&logoColor=white)](#) | Node.js · PostgreSQL · Flutter | Complete institute management — fees, attendance, staff & reporting |
-| [![AngamTech](https://img.shields.io/badge/AngamTech-22C55E?style=flat-square&logo=buffer&logoColor=white)](https://www.angamtech.com) | Node.js · MongoDB · Flutter | Full-service digital studio — CRMs, tools & custom apps for businesses |
-| [![ABCMaths](https://img.shields.io/badge/ABCMaths-6C63FF?style=flat-square&logo=wolfram&logoColor=white)](https://www.abcmaths.in) | Web · CMS | Interactive mathematics learning platform for students |
-| [![Global Social Mission](https://img.shields.io/badge/Global%20Social%20Mission-0A66C2?style=flat-square&logo=globe&logoColor=white)](https://www.globalsocialmission.org) | WordPress · Web | NGO platform connecting volunteers and donors for social causes |
-| [![Naloji Technologies](https://img.shields.io/badge/Naloji%20Technologies-FF6584?style=flat-square&logo=codefactor&logoColor=white)](https://nalojitechnologies.com) | Web · Branding | Tech company website with services and product showcase |
-| [![Shiva Shakthi Crackers](https://img.shields.io/badge/Shiva%20Shakthi%20Crackers-F59E0B?style=flat-square&logo=shopify&logoColor=white)](https://shivashakthicrackers.com) | Web · E-commerce | Online crackers store with product listings and order management |
-
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/-Contribution%20Activity-6C63FF?style=flat-square&logo=git&logoColor=white" />
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-bj&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF" alt="Activity Graph" />
-
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/-Let's%20Build%20Something-6C63FF?style=flat-square&logo=handshake&logoColor=white" />
-
-<div align="center">
-
-If you're a founder, business owner, or team looking to turn an idea into a product, streamline a workflow, or upgrade your web or mobile app —
-
-> **I'd love to discuss how we can build something that actually ships and scales.**
-
-<br/>
-
-[![Book a Free Call](https://img.shields.io/badge/Book%20a%20Free%20Consultation-Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/balaji-bj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-balajiyadav.me-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://balajiyadav.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji_N-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/balaji-bj-ln)
-[![GitHub](https://img.shields.io/badge/GitHub-@krish--bj-181717?style=for-the-badge&logo=github)](https://github.com/krish-bj)
-
-<br/>
-
-*"Building practical, real-world apps with modern tools — and always shipping."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
