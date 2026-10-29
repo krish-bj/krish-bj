@@ -1,93 +1,98 @@
 <div align="center">
 
-# Balaji N
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00D4FF,50:8B5CF6,100:FF4D8D" alt="" />
 
-**Full-Stack Developer · Software Engineer · Technical Founder**
+<br/>
 
-Building thoughtful interfaces, reliable systems and practical software for real businesses.
+<sub>SOFTWARE DEVELOPER &nbsp; / &nbsp; PRODUCT BUILDER</sub>
 
-[Portfolio](https://balajiyadav.me) · [LinkedIn](https://linkedin.com/in/balaji-bj-ln) · [AngamTech](https://angamtech.in)
+# Balaji N<span> </span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Designing+and+developing+digital+products;Frontend+%2F+Backend+%2F+Architecture;From+idea+to+deployment" alt="Developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=660&lines=Building+for+the+web+and+beyond.;Design.+Develop.+Deploy.;Making+complex+things+feel+simple." alt="Animated developer tagline" />
+
+<br/>
+
+[**Website**](https://balajiyadav.me) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/balaji-bj-ln) &nbsp;·&nbsp; [**AngamTech**](https://angamtech.in)
+
+<br/>
 
 </div>
 
 ---
 
-### About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm **Balaji N**, a full-stack developer and co-founder of [AngamTech](https://angamtech.in). I design and develop web applications, business software and digital platforms — from user experience and system architecture to deployment.
+### / about
 
-My work spans **ERP systems, CRM platforms, learning management systems (LMS), custom software, websites and mobile applications**. I focus on usable interfaces, maintainable code and solutions that fit real-world workflows.
+I build digital products from concept to launch.
 
-```text
-focus       Full-stack engineering & product development
-approach    Understand → Design → Build → Deploy
-interests   Business systems, education technology, automation
-```
+Full-stack development, product design and the systems behind them. Co-founder at **[AngamTech](https://angamtech.in)**.
 
-### Featured project
+</td>
+<td width="42%" valign="top">
+
+### / currently into
+
+`React` `Next.js` `Python` `Django`
+
+`PostgreSQL` `Node.js`
+
+`Product UI` `Automation`
+
+</td>
+</tr>
+</table>
+
+### 01 — Featured
 
 <table>
 <tr><td>
 
-#### [CollegeFynder](https://collegefynder.com)
+<sub>MAIN PROJECT &nbsp; / &nbsp; EDUCATION TECHNOLOGY</sub>
 
-**College discovery and exploration platform**
+## [CollegeFynder ↗](https://collegefynder.com)
 
-An education-focused product built to make exploring colleges and academic options more approachable.
+College exploration, made easier.
 
-**Website:** [collegefynder.com](https://collegefynder.com)
+**[Explore the platform](https://collegefynder.com)**
 
 </td></tr>
 </table>
 
-### Selected websites & projects
+### 02 — Selected work
 
-| Project | Website |
-| :--- | :--- |
-| **Lead2Us** | [lead2us.in](https://lead2us.in) |
-| **VisionBridge** | [visionbridge.in](https://visionbridge.in) |
-| **Risers Table** | [riserstable.com](https://riserstable.com) |
-| **Shiva Shakthi Crackers** | [shivashakthicrackers.com](https://www.shivashakthicrackers.com) |
-| **Global Social Mission** | [globalsocialmission.org](https://globalsocialmission.org) |
+| Project | Live site |
+| :--- | ---: |
+| **Lead2Us** | [lead2us.in ↗](https://lead2us.in) |
+| **VisionBridge** | [visionbridge.in ↗](https://visionbridge.in) |
+| **Risers Table** | [riserstable.com ↗](https://riserstable.com) |
+| **Shiva Shakthi Crackers** | [shivashakthicrackers.com ↗](https://www.shivashakthicrackers.com) |
+| **Global Social Mission** | [globalsocialmission.org ↗](https://globalsocialmission.org) |
 
-### What I build
+### 03 — What I work on
 
-| Area | Focus |
-| :--- | :--- |
-| **ERP & internal tools** | Operations, inventory, employee workflows and reporting |
-| **CRM systems** | Lead management, sales workflows and customer operations |
-| **LMS platforms** | Course management, assessments and learner experiences |
-| **Custom software** | Web apps, dashboards, integrations and automation |
-| **Web & mobile** | Responsive experiences and application development |
+`ERP` &nbsp; `CRM` &nbsp; `LMS` &nbsp; `Custom software` &nbsp; `Web applications` &nbsp; `Mobile apps`
 
-### Tech stack
+### 04 — Toolkit
 
 <div align="center">
 
-**Languages & frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,postgres&perline=8" alt="React, Next.js, TypeScript, JavaScript, Python, Django, Node.js and PostgreSQL" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,react,nextjs,tailwind&perline=8" alt="JavaScript, TypeScript, Python, PHP, Dart, React, Next.js and Tailwind CSS" />
-
-**Backend & databases**
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express,postgres,mongodb,redis&perline=7" alt="Django, Node.js, NestJS, Express, PostgreSQL, MongoDB and Redis" />
-
-**Tools & platforms**
-
-<img src="https://skillicons.dev/icons?i=flutter,wordpress,docker,git,github,linux,figma,vscode&perline=8" alt="Flutter, WordPress, Docker, Git, GitHub, Linux, Figma and VS Code" />
+<img src="https://skillicons.dev/icons?i=tailwind,mongodb,redis,flutter,wordpress,docker,git,figma&perline=8" alt="Tailwind CSS, MongoDB, Redis, Flutter, WordPress, Docker, Git and Figma" />
 
 </div>
 
-### GitHub activity
+### 05 — In the open
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-bj&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-bj&layout=compact&hide_border=true&theme=github_dark" alt="Most-used public repository languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-bj&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=00B8D9&text_color=8B949E" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-bj&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B949E" alt="Public repository languages" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-bj&theme=github-dark&hide_border=true" alt="GitHub contribution activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-bj&bg_color=00000000&color=8B5CF6&line=00B8D9&point=FF4D8D&area=true&hide_border=true" alt="Contribution activity" />
 
 </div>
 
@@ -95,12 +100,12 @@ An education-focused product built to make exploring colleges and academic optio
 
 <div align="center">
 
-### Let's connect
+**Have a project in mind?**
 
-Interested in collaborating on a product or building software for your business?
+[Portfolio](https://balajiyadav.me) &nbsp;·&nbsp; [Connect on LinkedIn](https://linkedin.com/in/balaji-bj-ln) &nbsp;·&nbsp; [AngamTech](https://angamtech.in)
 
-[**Portfolio**](https://balajiyadav.me) · [**LinkedIn**](https://linkedin.com/in/balaji-bj-ln) · [**AngamTech**](https://angamtech.in)
+<br/>
 
-<sub>Designed to build. Built to last.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF4D8D,50:8B5CF6,100:00D4FF" alt="" />
 
 </div>
