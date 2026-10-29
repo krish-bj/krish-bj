@@ -1,134 +1,106 @@
 <div align="center">
 
-<img width="100%" alt="Balaji N — building digital products" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,45:EC4899,100:F59E0B&text=Balaji%20N&fontColor=FFFFFF&fontSize=65&fontAlignY=39&desc=Full-Stack%20Developer%20%7C%20Technical%20Founder&descAlignY=61&descSize=19&animation=fadeIn" />
+# Balaji N
 
-### ✦ Ideas → Interfaces → Products that ship
+**Full-Stack Developer · Software Engineer · Technical Founder**
 
-<img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&pause=1100&color=E879F9&center=true&vCenter=true&width=650&lines=I+design%2C+build+and+ship+software;From+thoughtful+UX+to+reliable+backends;Web+%E2%80%A2+Mobile+%E2%80%A2+Business+Tools" />
+Building thoughtful interfaces, reliable systems and practical software for real businesses.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajiyadav.me)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-bj-ln)
-[![AngamTech](https://img.shields.io/badge/ANGAMTECH-EC4899?style=for-the-badge&logo=buffer&logoColor=white)](https://angamtech.in)
+[Portfolio](https://balajiyadav.me) · [LinkedIn](https://linkedin.com/in/balaji-bj-ln) · [AngamTech](https://angamtech.in)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Designing+and+developing+digital+products;Frontend+%2F+Backend+%2F+Architecture;From+idea+to+deployment" alt="Developer introduction" />
 
 </div>
 
 ---
 
-## 🌈 A little about me
+### About
 
-I'm **Balaji N**, a full-stack developer, technical founder and co-founder of **[AngamTech](https://angamtech.in)**.
+I'm **Balaji N**, a full-stack developer and co-founder of [AngamTech](https://angamtech.in). I design and develop web applications, business software and digital platforms — from user experience and system architecture to deployment.
 
-I work across **product design, frontend engineering, backend systems and deployment** — turning complex requirements into useful, approachable digital experiences.
+My work spans **ERP systems, CRM platforms, learning management systems (LMS), custom software, websites and mobile applications**. I focus on usable interfaces, maintainable code and solutions that fit real-world workflows.
 
-- 🧩 **I build:** CRMs, ERP and business tools, learning platforms, websites and mobile apps.
-- 🎨 **I care about:** distinctive interfaces, accessible workflows and maintainable design systems.
-- ⚙️ **I focus on:** practical architecture, performance and shipping real products.
-- 🚀 **Currently exploring:** smarter education platforms and workflow automation.
+```text
+focus       Full-stack engineering & product development
+approach    Understand → Design → Build → Deploy
+interests   Business systems, education technology, automation
+```
 
-## 🛠️ My creative toolkit
-
-<div align="center">
-
-**Frontend & experience**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS and Figma" />
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,express,postgres,mongodb,redis&perline=8" alt="Python, Django, Node.js, NestJS, Express, PostgreSQL, MongoDB and Redis" />
-
-**Mobile, platforms & workflow**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,wordpress,docker,git,github,linux&perline=8" alt="Flutter, Dart, PHP, WordPress, Docker, Git, GitHub and Linux" />
-
-</div>
-
-## ✨ Selected work
+### Featured project
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td>
 
-### 🎓 [CollegeFynder V2](https://github.com/krish-bj/CollegeFynder-V2)
-**AI-powered college discovery**
+#### [CollegeFynder](https://collegefynder.com)
 
-A platform for exploring colleges and navigating education choices.
+**College discovery and exploration platform**
 
-`Next.js` · `NestJS` · `PostgreSQL` · `Redis`
+An education-focused product built to make exploring colleges and academic options more approachable.
 
-</td>
-<td width="50%" valign="top">
+**Website:** [collegefynder.com](https://collegefynder.com)
 
-### 🏢 [Institute Management](https://github.com/krish-bj/IMS)
-**Operations made simpler**
-
-Tools for managing institute workflows, staff and administration.
-
-`Business software` · `Operations`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [ABC Academy](https://github.com/krish-bj/abc-academy-launch)
-**Learning experiences**
-
-Building digital experiences for education and learners.
-
-`Education` · `Web`
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 [LeadCRM](https://github.com/krish-bj/LeadCRM)
-**Customer workflows**
-
-Exploring better ways to manage leads and business relationships.
-
-`CRM` · `Productivity`
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-<details>
-<summary><b>🌍 More websites and client work</b></summary>
+### Selected websites & projects
 
-<br/>
+| Project | Website |
+| :--- | :--- |
+| **Lead2Us** | [lead2us.in](https://lead2us.in) |
+| **VisionBridge** | [visionbridge.in](https://visionbridge.in) |
+| **Risers Table** | [riserstable.com](https://riserstable.com) |
+| **Shiva Shakthi Crackers** | [shivashakthicrackers.com](https://www.shivashakthicrackers.com) |
+| **Global Social Mission** | [globalsocialmission.org](https://globalsocialmission.org) |
 
-- [AngamTech](https://angamtech.in) — digital products and development studio
-- [ABCMaths](https://www.abcmaths.in) — mathematics learning website
-- [Global Social Mission](https://www.globalsocialmission.org) — nonprofit web presence
-- [Naloji Technologies](https://nalojitechnologies.com) — technology company website
+### What I build
 
-</details>
+| Area | Focus |
+| :--- | :--- |
+| **ERP & internal tools** | Operations, inventory, employee workflows and reporting |
+| **CRM systems** | Lead management, sales workflows and customer operations |
+| **LMS platforms** | Course management, assessments and learner experiences |
+| **Custom software** | Web apps, dashboards, integrations and automation |
+| **Web & mobile** | Responsive experiences and application development |
 
-## 📊 A glimpse of my GitHub
+### Tech stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-bj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=F59E0B&text_color=CDD6F4" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-bj&layout=compact&hide_border=true&bg_color=0D1117&title_color=E879F9&text_color=CDD6F4" alt="Most-used languages in public repositories" />
+**Languages & frontend**
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-bj&bg_color=0D1117&color=E879F9&line=F59E0B&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,react,nextjs,tailwind&perline=8" alt="JavaScript, TypeScript, Python, PHP, Dart, React, Next.js and Tailwind CSS" />
+
+**Backend & databases**
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express,postgres,mongodb,redis&perline=7" alt="Django, Node.js, NestJS, Express, PostgreSQL, MongoDB and Redis" />
+
+**Tools & platforms**
+
+<img src="https://skillicons.dev/icons?i=flutter,wordpress,docker,git,github,linux,figma,vscode&perline=8" alt="Flutter, WordPress, Docker, Git, GitHub, Linux, Figma and VS Code" />
 
 </div>
 
-> **My approach:** Make it useful. Make it intuitive. Make it last.
-
-## 💌 Have something in mind?
-
-Whether it's a product idea, a better interface or a business workflow worth simplifying, I'm always interested in meaningful projects.
+### GitHub activity
 
 <div align="center">
 
-[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajiyadav.me)
-[![Connect on LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-bj-ln)
-[![Visit AngamTech](https://img.shields.io/badge/VISIT_ANGAMTECH-F59E0B?style=for-the-badge&logo=buffer&logoColor=white)](https://angamtech.in)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish-bj&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-bj&layout=compact&hide_border=true&theme=github_dark" alt="Most-used public repository languages" />
 
-<img src="https://komarev.com/ghpvc/?username=krish-bj&style=flat-square&color=7C3AED&label=Profile+visits" alt="Profile visits" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-bj&theme=github-dark&hide_border=true" alt="GitHub contribution activity" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,45:EC4899,100:F59E0B" alt="" />
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+Interested in collaborating on a product or building software for your business?
+
+[**Portfolio**](https://balajiyadav.me) · [**LinkedIn**](https://linkedin.com/in/balaji-bj-ln) · [**AngamTech**](https://angamtech.in)
+
+<sub>Designed to build. Built to last.</sub>
 
 </div>
